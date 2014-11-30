@@ -1,0 +1,5 @@
+name: forcemvc_rest
+description: A ForceMVC rest example
+dependencies:
+  browser: any
+  forcemvc: any
