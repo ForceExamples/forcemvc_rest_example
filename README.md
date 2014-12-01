@@ -1,4 +1,4 @@
-#### Define Rest API with ForceMVC ####
+#### Define a Rest API with ForceMVC ####
 
 You can very easily define a rest api with ForceMVC.
 
