@@ -10,10 +10,9 @@ part 'models/book.dart';
 
 main() {
   
-    WebApplication webServer = new WebApplication();
+    WebApplication app = new WebApplication();
     
-    webServer.setupConsoleLog(Level.FINEST);
-    
-    webServer.start();
+    app.setupConsoleLog(Level.FINEST);
+    app.start();
 
 }
